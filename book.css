@@ -4,11 +4,11 @@ body {
 
 article {
     max-width: 720px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     padding: 1rem 0.5rem 1rem 0.5rem;
     margin: 3rem auto 3rem auto;
     line-height: 1.8;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 h1, h2, h3, h4, h5, h6 {
