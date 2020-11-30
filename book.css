@@ -1,7 +1,13 @@
 @font-face {
     font-family: 'Nunito Sans';
-    src: url('https://galenguyer.github.io/book.css/NunitoSans-Regular.woff2');
+    src: url('https://galenguyer.github.io/book.css/NunitoSans-Regular.ttf');
     font-weight: 400;
+}
+@font-face {
+    font-family: 'Nunito Sans';
+    src: url('https://galenguyer.github.io/book.css/NunitoSans-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
 }
 
 body {
