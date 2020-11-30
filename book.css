@@ -6,7 +6,7 @@ body {
 
 article {
     max-width: 720px;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Nunito Sans', 'Arial Narrow', Arial, sans-serif;
     padding: 1rem 0.5rem 1rem 0.5rem;
     margin: 3rem auto 3rem auto;
     line-height: 1.8;
@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin: 0;
 }
+h1 {font-weight: 500;}
 
 hr {
     margin: 0rem 2rem 2rem 2rem;
